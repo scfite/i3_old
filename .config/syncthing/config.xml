@@ -1,0 +1,163 @@
+<configuration version="28">
+    <folder id="Sync_Phone" label="From_Phone" path="/home/sam/From_Phone" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+        <filesystemType>basic</filesystemType>
+        <device id="VD2FHWC-OWQFTUY-XYM3IBX-NYD3WTB-PXGYGLY-FTX3BIG-ZXHS7C6-Y2SPOAQ" introducedBy=""></device>
+        <device id="VZUKF3T-B435DL6-EZNXBWO-GN4PAR7-DDVVRC3-VSJZR66-EH6NKNB-RLQRZA6" introducedBy=""></device>
+        <minDiskFree unit="%">1</minDiskFree>
+        <versioning></versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>10</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>false</useLargeBlocks>
+    </folder>
+    <folder id="default" label="Default Folder" path="/home/sam/Sync" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+        <filesystemType>basic</filesystemType>
+        <device id="FIDWYAK-CN2L4WZ-ETL6NDT-MSFQSMS-AWZBC7I-DCEC3GA-VCP7B74-CAPBGQ6" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD"></device>
+        <device id="LRZCRTA-HIFQ5W4-VB6TKIX-2YTSBM7-YOJLY4C-XRPBU6U-SECRLZD-LIOKEQE" introducedBy="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU"></device>
+        <device id="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD" introducedBy=""></device>
+        <device id="VD2FHWC-OWQFTUY-XYM3IBX-NYD3WTB-PXGYGLY-FTX3BIG-ZXHS7C6-Y2SPOAQ" introducedBy="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU"></device>
+        <device id="VZUKF3T-B435DL6-EZNXBWO-GN4PAR7-DDVVRC3-VSJZR66-EH6NKNB-RLQRZA6" introducedBy=""></device>
+        <device id="YKLIHG6-Z3QHEUW-YBKHEB2-AMU4ZVV-2T2QCIK-IE7OM4T-MORAK4F-IPTEHAH" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD"></device>
+        <device id="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD"></device>
+        <minDiskFree unit="%">1</minDiskFree>
+        <versioning></versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>-1</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>false</useLargeBlocks>
+    </folder>
+    <folder id="rhhqf-lt4bc" label="From_Phone_Pictures" path="/home/sam/From_Phone_Pictures" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+        <filesystemType>basic</filesystemType>
+        <device id="VD2FHWC-OWQFTUY-XYM3IBX-NYD3WTB-PXGYGLY-FTX3BIG-ZXHS7C6-Y2SPOAQ" introducedBy=""></device>
+        <device id="VZUKF3T-B435DL6-EZNXBWO-GN4PAR7-DDVVRC3-VSJZR66-EH6NKNB-RLQRZA6" introducedBy=""></device>
+        <minDiskFree unit="%">1</minDiskFree>
+        <versioning></versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>10</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>false</useLargeBlocks>
+    </folder>
+    <device id="FIDWYAK-CN2L4WZ-ETL6NDT-MSFQSMS-AWZBC7I-DCEC3GA-VCP7B74-CAPBGQ6" name="skinnyboi-arch" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="LRZCRTA-HIFQ5W4-VB6TKIX-2YTSBM7-YOJLY4C-XRPBU6U-SECRLZD-LIOKEQE" name="sam-windows-T520" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD" name="sam-Windows-Desktop" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="VD2FHWC-OWQFTUY-XYM3IBX-NYD3WTB-PXGYGLY-FTX3BIG-ZXHS7C6-Y2SPOAQ" name="sam-note8" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="VZUKF3T-B435DL6-EZNXBWO-GN4PAR7-DDVVRC3-VSJZR66-EH6NKNB-RLQRZA6" name="sam-ThinkPad-T520" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="YKLIHG6-Z3QHEUW-YBKHEB2-AMU4ZVV-2T2QCIK-IE7OM4T-MORAK4F-IPTEHAH" name="sam-desktop-xubuntu" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="66GF25O-7WJG75J-BF5HY2M-KHXAMCN-E2L2HIG-E4OHJ4V-5IFOCYQ-MCEWRAU" name="windows-sam-desktop" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="OMGCY6B-BRVS4T6-PAAWRQX-5UZLVKZ-D6Q6C75-NUFGMSN-KXBQ7FL-4TTG2AD">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <gui enabled="true" tls="false" debugging="false">
+        <address>127.0.0.1:8384</address>
+        <apikey>wC6nzPL4gqjnqqqfecaeXzD4iS57oXCx</apikey>
+        <theme>dark</theme>
+    </gui>
+    <options>
+        <listenAddress>default</listenAddress>
+        <globalAnnounceServer>default</globalAnnounceServer>
+        <globalAnnounceEnabled>true</globalAnnounceEnabled>
+        <localAnnounceEnabled>true</localAnnounceEnabled>
+        <localAnnouncePort>21027</localAnnouncePort>
+        <localAnnounceMCAddr>[ff12::8384]:21027</localAnnounceMCAddr>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+        <reconnectionIntervalS>60</reconnectionIntervalS>
+        <relaysEnabled>true</relaysEnabled>
+        <relayReconnectIntervalM>10</relayReconnectIntervalM>
+        <startBrowser>true</startBrowser>
+        <natEnabled>true</natEnabled>
+        <natLeaseMinutes>60</natLeaseMinutes>
+        <natRenewalMinutes>30</natRenewalMinutes>
+        <natTimeoutSeconds>10</natTimeoutSeconds>
+        <urAccepted>3</urAccepted>
+        <urSeen>3</urSeen>
+        <urUniqueID>eaCtQLSD</urUniqueID>
+        <urURL>https://data.syncthing.net/newdata</urURL>
+        <urPostInsecurely>false</urPostInsecurely>
+        <urInitialDelayS>1800</urInitialDelayS>
+        <restartOnWakeup>true</restartOnWakeup>
+        <autoUpgradeIntervalH>12</autoUpgradeIntervalH>
+        <upgradeToPreReleases>false</upgradeToPreReleases>
+        <keepTemporariesH>24</keepTemporariesH>
+        <cacheIgnoredFiles>false</cacheIgnoredFiles>
+        <progressUpdateIntervalS>5</progressUpdateIntervalS>
+        <limitBandwidthInLan>false</limitBandwidthInLan>
+        <minHomeDiskFree unit="%">1</minHomeDiskFree>
+        <releasesURL>https://upgrades.syncthing.net/meta.json</releasesURL>
+        <overwriteRemoteDeviceNamesOnConnect>false</overwriteRemoteDeviceNamesOnConnect>
+        <tempIndexMinBlocks>10</tempIndexMinBlocks>
+        <trafficClass>0</trafficClass>
+        <defaultFolderPath>~</defaultFolderPath>
+        <setLowPriority>true</setLowPriority>
+        <minHomeDiskFreePct>0</minHomeDiskFreePct>
+    </options>
+</configuration>

@@ -1,0 +1,45 @@
+[Print Settings]
+cover-after=none
+print-at=now
+cups-InputSlot=Tray1
+print-at-time=
+duplex=simplex
+cups-Duplex=None
+cups-job-sheets=none,none
+resolution-x=1200
+resolution-y=600
+atril-print-setting-page-scale=1
+resolution=1200
+atril-print-setting-page-autorotate=true
+cups-job-priority=50
+default-source=Tray1
+atril-print-setting-page-size=false
+cups-Resolution=1200x600dpi
+cover-before=none
+printer=Lexmark-E460dn
+cups-number-up=1
+
+output-bin=PrinterS
+cups-TonerDarkness=PrinterS
+cups-GrayCorrection=PrinterS
+cups-OutputBin=PrinterS
+media-type=PrinterS
+cups-LexContrast=PrinterS
+cups-LexBrightness=PrinterS
+cups-LexPixelBoost=PrinterS
+cups-LexBlankPage=PrinterS
+cups-MediaType=PrinterS
+cups-SepSource=PrinterS
+cups-LexLineDetail=PrinterS
+cups-SepPages=PrinterS
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

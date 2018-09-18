@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AcademicMarkdown",
+		"BracketHighlighter",
+		"Citer",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Materialize",
+		"Package Control",
+		"Pandoc Academic",
+		"R-Box",
+		"R-snippets",
+		"SendCode",
+		"SendText",
+		"SublimePeek-R-help",
+		"SublimeREPL",
+		"WordCount"
+	]
+}

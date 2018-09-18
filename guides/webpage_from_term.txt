@@ -1,0 +1,2 @@
+#displays anf html page in formatted text in the terminal 
+html2text Webpage.html | less

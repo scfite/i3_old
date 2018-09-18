@@ -1,0 +1,12 @@
+du -sh
+du
+!du -sh
+dc
+source 
+shell du -sh
+mkdir configs
+mkdir i3
+
+search *.html
+find /home/sam/ *.html
+delete

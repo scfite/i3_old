@@ -1,0 +1,37 @@
+{
+    "prog": "terminal",
+    "auto_expand_line": true,
+    "auto_advance" : true,
+    "auto_advance_non_empty": false,
+    "bracketed_paste_mode": false,
+
+    "r" : {
+        "prog": "terminal",
+        // turn brackted paste mode on if rtichoke or readline 7.0 is used
+        "bracketed_paste_mode": false
+    },
+
+    "rmd" : {
+        "prog": "terminal",
+        // turn brackted paste mode on if rtichoke or readline 7.0 is used
+        "bracketed_paste_mode": false
+    },
+
+    "python" : {
+        "prog": "terminal",
+        "bracketed_paste_mode": true
+    },
+
+    "julia" : {
+        "prog": "terminal",
+        "bracketed_paste_mode": true
+    }
+
+    // path related settings
+
+    // path to tmux
+    // "tmux": "tmux",
+
+    // path to screen
+    // "screen": "screen"
+}

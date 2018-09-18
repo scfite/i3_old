@@ -1,0 +1,1050 @@
+{
+	"folder_history":
+	[
+		"/opt/lampp/htdocs/SlapDash"
+	],
+	"last_version": 3176,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 880.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"id",
+						"idx_start"
+					],
+					[
+						"slo",
+						"slot_count"
+					],
+					[
+						"is",
+						"idx_start"
+					],
+					[
+						"idx",
+						"idx_start"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"carr",
+						"carry_out_2"
+					],
+					[
+						"A",
+						"Add"
+					],
+					[
+						"split",
+						"split_sum"
+					],
+					[
+						"spli",
+						"split_S"
+					],
+					[
+						"add",
+						"add_four_bits"
+					],
+					[
+						"car",
+						"carry_in"
+					],
+					[
+						"ca",
+						"carry_out"
+					],
+					[
+						"Spl",
+						"split_S"
+					],
+					[
+						"print",
+						"printBits"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "vmen",
+				"selected_items":
+				[
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 466.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/mmult.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/lab12/Makefile",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/taken-2-2-2.out",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/instruction-trace.txt",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/iplc-sim.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/test/harddaddy-master/iplc-sim.c",
+				"/home/sam/Downloads/Old_Quiz4a_class_solutions.md",
+				"/home/sam/Downloads/Old_Quiz4b_class_solutions.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/iplc-sim.c",
+				"/home/sam/Downloads/Lab10.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab10/lab10/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hwk4/HW4/hw.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab09/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/HW4/hw4.c",
+				"/home/sam/.bash_aliases",
+				"/home/sam/Sync/rpi/s18/CompOrg/HW4/cla.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/homeworkfour/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hw4/hw4.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hw4/Assignment4.md",
+				"/home/sam/Sync/apartment _list/list.txt",
+				"/home/sam/.config/skippy-xd/skippy-xd.rc",
+				"/home/sam/Sync/rpi/s18/grades.cpp",
+				"/home/sam/.bash_ps1",
+				"/home/sam/.bashrc",
+				"/root/.bashrc",
+				"/home/sam/Sync/rpi/s18/Focs/HW6/test.cpp",
+				"/home/sam/Sync/rpi/s18/Focs/HW6/p1.cpp",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab08/lab_8.c"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"long",
+					"add_four_bits",
+					"add_two_bits",
+					"O",
+					"S",
+					"or_gate",
+					"not_gate",
+					"*i"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"lld ",
+					"add_4_bits",
+					"add_2_bits",
+					"*O",
+					"*o",
+					"I",
+					"i"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 266.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 780.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"id",
+						"idx_start"
+					],
+					[
+						"slo",
+						"slot_count"
+					],
+					[
+						"is",
+						"idx_start"
+					],
+					[
+						"idx",
+						"idx_start"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"carr",
+						"carry_out_2"
+					],
+					[
+						"A",
+						"Add"
+					],
+					[
+						"split",
+						"split_sum"
+					],
+					[
+						"spli",
+						"split_S"
+					],
+					[
+						"add",
+						"add_four_bits"
+					],
+					[
+						"car",
+						"carry_in"
+					],
+					[
+						"ca",
+						"carry_out"
+					],
+					[
+						"Spl",
+						"split_S"
+					],
+					[
+						"print",
+						"printBits"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/opt/lampp/htdocs/SlapDash/index.php",
+					"settings":
+					{
+						"buffer_size": 477,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\n  session_start();\n  \n  $serverName = \"127.0.0.1\"; //serverName\\instanceName\n  $user = \"test\";\n  $password = \"test\";\n  $db = \"slapdash\";\n  $conn = mysqli_connect($serverName, $user, $password, $db);\n  if (mysqli_error($conn)) {\n    printf(\"Connect failed: %s\\n\", $mysqli->connect_error);\n    exit();\n  }\n?>\n",
+					"file": "/opt/lampp/htdocs/SlapDash/include/_connect.php",
+					"file_size": 326,
+					"file_write_time": 131752732633662848,
+					"settings":
+					{
+						"buffer_size": 313,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/R-Box/support/R Markdown.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/R-Box/support/R Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/R-Box/support/R Markdown.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublime repl R",
+						"SublimeREPL: R"
+					],
+					[
+						"SublR",
+						"SublimeREPL: R"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Set Syntax: R E",
+						"Set Syntax: R Extended"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"REPL R",
+						"SublimeREPL: R"
+					],
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 549.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/opt/lampp/htdocs/SlapDash",
+				"/opt/lampp/htdocs/SlapDash/include",
+				"/opt/lampp/htdocs/SlapDash/static",
+				"/opt/lampp/htdocs/SlapDash/static/css"
+			],
+			"file_history":
+			[
+				"/opt/lampp/htdocs/SlapDash/static/css/index.css",
+				"/opt/lampp/htdocs/SlapDash/README.md",
+				"/home/sam/Sync/summer18/grades.py",
+				"/home/sam/Sync/summer18/bio/given_notes/exam_3/gene_expression_quiz.rmd",
+				"/home/sam/Sync/summer18/bio/notes/lecture_3.rmd",
+				"/home/sam/.vimrc",
+				"/home/sam/Sync/summer18/bio/notes/Lecture 2.rmd",
+				"/home/sam/Sync/summer18/bio/notes/test.rmd",
+				"/home/sam/.cache/.fr-YCNSty/vim-plug-master/README.md",
+				"/home/sam/Sync/summer18/test.rmd",
+				"/home/sam/.config/sublime-text-3/Packages/SublimeREPL/config/R/Main.sublime-menu",
+				"/home/sam/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+				"/home/sam/restart",
+				"/home/sam/Sync/summer18/bio/notes/Lecture 1",
+				"/home/sam/Scripts/trackpoint_setup.sh",
+				"/home/sam/Scripts/middle_click.sh",
+				"/home/sam/Documents/flascii_bird-master/flascii_bird_linux.py",
+				"/home/sam/Documents/flascii_bird-master/flascii_bird.py",
+				"/home/sam/.config/rofi/glue_pro_blue.rasi",
+				"/usr/bin/rofi",
+				"/usr/share/doc/rofi/examples/rofi-file-browser.sh",
+				"/home/sam/.local/share/rofi/themes/glue_pro_blue.rasi",
+				"/home/sam/dream.txt",
+				"/home/sam/Sync/rpi/f17/DataStructures/0labs/solo/game.cpp",
+				"/home/sam/Sync/rpi/s18/Focs/HW9/hw9.txt",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/Lab12.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/final_project/GivenFiles/groupproject.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/lab12/Makefile",
+				"/home/sam/Sync/rpi/s18/Focs/HW9/hw9t",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/lab12/matrixMult.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab12/mmult.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/taken-2-2-2.out",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/instruction-trace.txt",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/harddaddy-master/src/iplc-sim.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/test/harddaddy-master/iplc-sim.c",
+				"/home/sam/Downloads/Old_Quiz4a_class_solutions.md",
+				"/home/sam/Downloads/Old_Quiz4b_class_solutions.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/fin/iplc-sim.c",
+				"/home/sam/Downloads/Lab10.md",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab10/lab10/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hwk4/HW4/hw.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab09/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/HW4/hw4.c",
+				"/home/sam/.bash_aliases",
+				"/home/sam/Sync/rpi/s18/CompOrg/HW4/cla.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/homeworkfour/main.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hw4/hw4.c",
+				"/home/sam/Sync/rpi/s18/CompOrg/hw4/Assignment4.md",
+				"/home/sam/Sync/apartment _list/list.txt",
+				"/home/sam/.config/skippy-xd/skippy-xd.rc",
+				"/home/sam/Sync/rpi/s18/grades.cpp",
+				"/home/sam/.bash_ps1",
+				"/home/sam/.bashrc",
+				"/root/.bashrc",
+				"/home/sam/Sync/rpi/s18/Focs/HW6/test.cpp",
+				"/home/sam/Sync/rpi/s18/Focs/HW6/p1.cpp",
+				"/home/sam/Sync/rpi/s18/CompOrg/Labs/Lab08/lab_8.c"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"positive",
+					"-",
+					"long",
+					"add_four_bits",
+					"add_two_bits",
+					"O",
+					"S",
+					"or_gate",
+					"not_gate",
+					"*i"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"*",
+					"lld ",
+					"add_4_bits",
+					"add_2_bits",
+					"*O",
+					"*o",
+					"I",
+					"i"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/opt/lampp/htdocs/SlapDash"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/opt/lampp/htdocs/SlapDash/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 22,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												14,
+												15
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/angle_bracket.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/opt/lampp/htdocs/SlapDash/include/_connect.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 313,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										313,
+										313
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "php"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 266.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.316844919786,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,375,67,1272,979,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 149.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

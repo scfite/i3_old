@@ -1,0 +1,416 @@
+{
+   "checksum": "df0cb513484bb4c8bd693c5030e7fe6d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13180302038039126",
+            "id": "122",
+            "meta_info": {
+               "last_visited_desktop": "13180691194792888"
+            },
+            "name": "CSCI 2600",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://www.cs.rpi.edu/~thompw4/CSCI-2600/Fall2018/"
+         }, {
+            "date_added": "13180302066166126",
+            "id": "123",
+            "meta_info": {
+               "last_visited_desktop": "13180814355794098"
+            },
+            "name": "CSCI 2300",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://piazza.com/class/jklxbhccc7t7d9"
+         }, {
+            "date_added": "13132778819302117",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13180336460976233"
+            },
+            "name": "Simple Youtube To MP3 Converter - YouTubeInMP3.com",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "http://www.youtubeinmp3.com/"
+         }, {
+            "date_added": "13133660205344120",
+            "id": "28",
+            "name": "YouTube In MP4 - Download YouTube videos in MP4 format",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://www.youtubeinmp4.com/youtube.php?video=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMh5LY4Mz15o"
+         }, {
+            "date_added": "13136668962608547",
+            "id": "29",
+            "meta_info": {
+               "last_visited": "13173282865065069",
+               "last_visited_desktop": "13172961195684084"
+            },
+            "name": "MP3FY | Online MP3 Converter",
+            "sync_transaction_version": "184",
+            "type": "url",
+            "url": "https://mp3fy.com/"
+         }, {
+            "date_added": "13141064373594855",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13180762492900770"
+            },
+            "name": "The Pastoral Dieselpunk Landscapes of Jakub Rozalski [Various] - Album on Imgur",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "http://imgur.com/a/rSSJK"
+         }, {
+            "date_added": "13151697429328904",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13152136468722796"
+            },
+            "name": "The Millennials: America's Secular Future | Big Think",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://bigthink.com/daylight-atheism/the-millennials-americas-secular-future"
+         }, {
+            "date_added": "13152750075431705",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13180815474743248"
+            },
+            "name": "Simon Stålenhag Art Gallery",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "http://www.simonstalenhag.se/"
+         }, {
+            "date_added": "13154143934057364",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13158011910718458"
+            },
+            "name": "SummerCoursesRPI",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sis.rpi.edu/reg/zs20180502.htm"
+         }, {
+            "date_added": "13154938813582651",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13170040990236434"
+            },
+            "name": "Constellation - Remastered | Oliver Lieb",
+            "sync_transaction_version": "134",
+            "type": "url",
+            "url": "https://oliverlieb.bandcamp.com/album/constellation-remastered"
+         }, {
+            "date_added": "13169576777150368",
+            "id": "95",
+            "meta_info": {
+               "last_visited_desktop": "13169576777150765"
+            },
+            "name": "Fundamentals of Piano Practice: Table of Contents",
+            "sync_transaction_version": "93",
+            "type": "url",
+            "url": "http://www.pianofundamentals.com/book"
+         }, {
+            "date_added": "13171391198429038",
+            "id": "103",
+            "meta_info": {
+               "last_visited": "13171764925052858",
+               "last_visited_desktop": "13171391198429356"
+            },
+            "name": "keyboard - How do I remap the Caps Lock and Ctrl keys? - Ask Ubuntu",
+            "sync_transaction_version": "188",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa"
+         }, {
+            "date_added": "13175188284148666",
+            "id": "107",
+            "meta_info": {
+               "last_visited": "13180280233404759",
+               "last_visited_desktop": "13175188284149512"
+            },
+            "name": "8 No-Bake Oatmeal Energy Balls — Bless this Mess",
+            "sync_transaction_version": "225",
+            "type": "url",
+            "url": "https://www.blessthismessplease.com/8-no-bake-oatmeal-energy-balls/"
+         }, {
+            "date_added": "13175972765924465",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13175972765925475"
+            },
+            "name": "Oh My Reddit… | MY MEAL PREP SUNDAY",
+            "sync_transaction_version": "200",
+            "type": "url",
+            "url": "https://mymealprepsunday.com/2015/03/09/hello-world/"
+         }, {
+            "children": [ {
+               "date_added": "13177174674088742",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13177174674089580"
+               },
+               "name": "Associations between adolescent cannabis use and neuropsychological decline: a longitudinal co‐twin control study - Meier - 2018 - Addiction - Wiley Online Library",
+               "sync_transaction_version": "207",
+               "type": "url",
+               "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/add.13946"
+            }, {
+               "date_added": "13178045119346659",
+               "id": "114",
+               "meta_info": {
+                  "last_visited_desktop": "13178045119347331"
+               },
+               "name": "SINGLESPEED HARDTAIL - bicycles - by owner - bike sale",
+               "sync_transaction_version": "213",
+               "type": "url",
+               "url": "https://westernmass.craigslist.org/bik/d/singlespeed-hardtail/6636216255.html"
+            } ],
+            "date_added": "13177174688378859",
+            "date_modified": "13179175042174861",
+            "id": "112",
+            "name": "cannabis",
+            "sync_transaction_version": "208",
+            "type": "folder"
+         }, {
+            "date_added": "13179175042174861",
+            "id": "116",
+            "meta_info": {
+               "last_visited_desktop": "13180934126137070"
+            },
+            "name": "Forums — Snahp.it - Index page",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://forum.snahp.it/"
+         }, {
+            "date_added": "13179304788243002",
+            "id": "118",
+            "meta_info": {
+               "last_visited_desktop": "13179304788243271"
+            },
+            "name": "MARKUS Swivel chair - Vissle dark gray - IKEA",
+            "sync_transaction_version": "222",
+            "type": "url",
+            "url": "https://www.ikea.com/us/en/catalog/products/00103102/#/90289172"
+         }, {
+            "date_added": "13175651831278040",
+            "id": "121",
+            "name": "Coping with Distress and Agony After a Break-Up | Psychology Today",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/laugh-cry-live/201208/coping-distress-and-agony-after-break"
+         } ],
+         "date_added": "13169247545179981",
+         "date_modified": "13181082577780610",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13169247545179988",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "225",
+      "synced": {
+         "children": [ {
+            "date_added": "13106096842984095",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13138515636088091"
+            },
+            "name": "Home - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.youtube.com/"
+         }, {
+            "date_added": "13107461793080447",
+            "id": "6",
+            "name": "13 hair care mistakes all people with curly hair make | Read Health Articles & Blogs at TheHealthSite.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.thehealthsite.com/beauty/13-hair-care-mistakes-all-people-with-curly-hair-make-pa0115/"
+         }, {
+            "date_added": "13111193500162563",
+            "id": "7",
+            "name": "10 Trendy Hairstyles For Curly Hair",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://hairstyleonpoint.com/10-trendy-curly-hairstyles/"
+         }, {
+            "date_added": "13113869805801701",
+            "id": "8",
+            "name": "Donald Trump is a unique threat to American democracy",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/www.washingtonpost.com/amphtml/opinions/donald-trump-is-a-unique-threat-to-american-democracy/2016/07/22/a6d823cc-4f4f-11e6-aa14-e0c1087f7583_story.html?client=safari#"
+         }, {
+            "date_added": "13118993327033999",
+            "id": "9",
+            "name": "Perfectionism and Pressure | The Anxiety Network",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://anxietynetwork.com/content/perfectionism-and-pressure"
+         }, {
+            "date_added": "13125129823268314",
+            "id": "10",
+            "name": "#UnfollowMe: 5 Reasons We Should All Be Concerned About Government Surveillance",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blog.amnestyusa.org/us/unfollowme-5-reasons-we-should-all-be-concerned-about-government-surveillance/"
+         }, {
+            "date_added": "13140074064466613",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13140074064481693"
+            },
+            "name": "1901 Burned at Stake",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.rootsweb.ancestry.com/~txnavarr/law_and_order/misc/1901_burned_at_stake.htm"
+         }, {
+            "date_added": "13140247679895917",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13140247679900882"
+            },
+            "name": "8 Tips to Make Your Hair Thicker... Naturally | Curls Understood",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://curlsunderstood.com/how-do-i-make-my-natural-hair-thicker/"
+         }, {
+            "date_added": "13140922851325950",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13140937776289606"
+            },
+            "name": "8 Apps To Slim Down Your Wallet | Cool Material",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://coolmaterial.com/feature/8-apps-to-slim-down-your-wallet/"
+         }, {
+            "date_added": "13142124790960701",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13142124790965747"
+            },
+            "name": "50 Great Names for Penis",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://eduncovered.com/50-great-names-for-penis-2013-05-20"
+         }, {
+            "date_added": "13144791970349688",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13145221166429260"
+            },
+            "name": "America’s Future Is Texas",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://www.google.com/amp/www.newyorker.com/magazine/2017/07/10/americas-future-is-texas/amp"
+         }, {
+            "date_added": "13144981545562222",
+            "id": "16",
+            "meta_info": {
+               "last_visited": "13144985837522248"
+            },
+            "name": "Which Political Party Has Created More Jobs?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://politicsthatwork.com/democrats-create-more-jobs.php"
+         }, {
+            "date_added": "13158904709439492",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13158904709455387"
+            },
+            "name": "best android phone 2017 reddit - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/search?client=ms-android-verizon&ei=LGFEWq2DMcLBjwS6uZSoBQ&q=best+android+phone+2017+reddit&oq=best+android+phone+2017+resdit&gs_l=mobile-gws-serp.1.0.0i13k1.5923.7405.0.8956.8.8.0.0.0.0.525.2037.0j1j4j1j0j1.7.0....0...1.1j4.64.mobile-gws-serp..1.7.2036...0j33i22i29i30k1.211.bK3YqsxP_rA"
+         }, {
+            "date_added": "13160353577706375",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13160727881706823"
+            },
+            "name": "YACS 2017",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://yacs.cs.rpi.edu/#/schedules?section_ids=4293,4300,4301,4302,4303,4304,4305,5778,5102&schedule_index=0"
+         }, {
+            "date_added": "13161374050854285",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13170624007340201",
+               "last_visited_desktop": "13170023719820592"
+            },
+            "name": "CSCI2200 at Rensselaer Polytechnic Institute | Piazza",
+            "sync_transaction_version": "157",
+            "type": "url",
+            "url": "https://piazza.com/rpi/spring2018/csci2200"
+         }, {
+            "date_added": "13164071857232725",
+            "id": "20",
+            "name": "Sativa Bigelow, Counselor, Albany, NY, 12206 | Psychology Today",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/therapists/sativa-ananda-bigelow-albany-ny/261784?sid=1519598009.5664_5381&city=Albany&state=NY&spec=17&ref=1&tr=ResultsPhoto"
+         }, {
+            "date_added": "13164071863630212",
+            "id": "21",
+            "name": "Albany Sex Therapy - Sex Therapy Albany, Albany County, New York - Sex Therapy Counseling Albany, Albany County, New York",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/therapists/sex-therapy/ny/albany"
+         }, {
+            "date_added": "13164622247629959",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13164622247631549"
+            },
+            "name": "Traveling with a Hedgehog - Mr.Pokee the Hedgehog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.mrpokee.com/2017/06/02/traveling-with-a-hedgehog/"
+         }, {
+            "date_added": "13167291169209151",
+            "id": "23",
+            "meta_info": {
+               "last_visited": "13167291169212877"
+            },
+            "name": "The Mistake of Only Comparing US Murder Rates to \"Developed\" Countries | Mises Wire",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://mises.org/wire/mistake-only-comparing-us-murder-rates-developed-countries"
+         }, {
+            "date_added": "13169837495491869",
+            "id": "99",
+            "meta_info": {
+               "last_visited_desktop": "13169837495492062"
+            },
+            "name": "PCManFM - ArchWiki",
+            "sync_transaction_version": "112",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/PCManFM#Get_thumbnails_for_other_file_types"
+         }, {
+            "date_added": "13180024402613542",
+            "id": "120",
+            "meta_info": {
+               "last_visited": "13180024402616426"
+            },
+            "name": "FACT CHECK: Does Marijuana Contain More Tar Than Cigarettes?",
+            "sync_transaction_version": "223",
+            "type": "url",
+            "url": "https://www.snopes.com/fact-check/dirty-dope/"
+         } ],
+         "date_added": "13169247545179989",
+         "date_modified": "13180024402613542",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

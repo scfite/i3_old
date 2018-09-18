@@ -1,0 +1,816 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "เครื่องบิน"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "นาฬิกาปลุกแบบอนาล็อก"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "Pomodoro® ผู้ช่วยจัดการเวลา."
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinara: Pomodoro® Assistant"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "เมษายน"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "เม.ย."
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "Attributions"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "สิงหาคม"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "ส.ค."
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "$average$ เฉลี่ย",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "แตรการแข่งขัน"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "กระดิ่ง"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "แตรรถมอเตอร์ไซต์"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$title$: $text$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• รองรับการพักระยะสั้นและระยะยาว\n• มีไอคอนตัวนับถอยหลังแถบเครื่องมือ\n• ติดตามประวัติและสถิติ Pomodoro\n• กำหนดช่วงพักที่ยาวนาน่ได้\n• กำหนดช่วงเวลาการจับเวลาได้\n• การแจ้งเตือนบนเดสก์ทอป\n• การแจ้งเตือนแท็บใหม่\n• การแจ้งเตือนด้วยเสียงที่มีมากกว่า 20 เสียง\n• ซอฟต์แวร์โอเพ่นซอร์ส"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "วันนี้ทำสำเร็จ"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "คอมพิวเตอร์เวทมนต์"
+   },
+   "confirm_import": {
+      "description": "Import history confirmation prompt. Shown on the settings-history page.",
+      "message": "การนำประวัติเข้าจะทำให้ประวัติเดิมทั้งหมดหายไป, ต้องการทำต่อ?"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "ผู้มีส่วนร่วม"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "รายวัน"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "เสร็จสิ้น Pomodoro เพื่อดูสถิติรายวันของคุณ"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ ระหว่าง $start$—$end$",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-m/%-d/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "ธันวาคม"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "ธ.ค."
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": "."
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "นาฬิกาปลุกดิจิตอล"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "นาฬิกาดิจิตอล"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ดิง"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ดิง ด๊อง"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": "Pomodoro® and The Pomodoro Technique® are trademarks of Francesco Cirillo. Marinara is not affiliated or associated with or endorsed by Pomodoro®, The Pomodoro Technique® or Francesco Cirillo."
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "หมา"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "ช่วงเวลา:"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Electronic Chime"
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 10 การพัก"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 2 การพัก"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 3 การพัก"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 4 การพัก"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 5 การพัก"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 6 การพัก"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 7 การพัก"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 8 การพัก"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ทุกๆ 9 การพัก"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "หมดเวลา · Marinara"
+   },
+   "export_history": {
+      "description": "Export History button. Shown on the settings-history page.",
+      "message": "นำประวัติออก"
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "กุมภาพันธ์"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "ก.พ."
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "ข้อเสนอแนะ"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "กระดาษไฟ"
+   },
+   "focus_title": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "โฟกัส"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "วันศุกร์"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "ศ."
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "เคาะแก้ว"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ฆ้อน 1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ฆ้อน 2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "รวม Pomodoros ไปยัง $count$ ถังชั่วโมง",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "รวม Pomodoros ไปยัง $count$ ถังนาที",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%b %d, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ ใน $date$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "ช่วยแปลภาษา"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "ประวัติ"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "้เสร็จสิ้น Pomodoro เพื่อดูประวัติของคุณ"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-I%p"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-I:%M%p"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ ชั่วโมง",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "การนำประวัติเข้าไม่สำเร็จ: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "import_history": {
+      "description": "Import History button. Shown on the settings-history page.",
+      "message": "นำประวัติเข้า"
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "ใน $month$",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "มกราคม"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "ม.ค."
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "กรกฎาคม"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "ก.ค."
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "มิถุนายน"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "มิ.ย."
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "$count$ ใน 9 เดือนที่ผ่านมา",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "\u003C1 นาที"
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "License"
+   },
+   "long_break_title": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "พักระยะยาว"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "มีนาคม"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "ม.ค."
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: ผู้ช่วย Pomodoro"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "พฤษภาคม"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "พ.ค."
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ นาที",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "นาที"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "ข้อมูลระยะเวลา Pomodoro ไม่ตรงกัน."
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "ข้อมูลเขตเวลา Pomodoro ไม่ตรงกัน."
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "ไม่มีข้อมูลช่วงเวลา."
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "ไม่มีข้อมูล Pomodoro."
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "ไม่มีข้อมูลเขตเวลา."
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "วันจันทร์"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "จ."
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "กล่องดนตรี"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "$count$m",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ไม่เลย"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "พฤศจิกายน"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "พ.ย."
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "ตุลาคม"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "ต.ย."
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "พักการจับเวลา"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "เข็มหมุดตก"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "เล่นเสียงการแจ้งเตือน:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "ผู้ช่วย Pomodoro"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$ Pomodoros",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1 Pomodoro"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "ไม่มี Pomodoros"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "ประวัติ Pomodoro"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Shown on the timer expiration page and in browser notifications.",
+      "message": "$pomodoros$ เพื่อทำวันนี้ให้สำเร็จ",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": "$pomodoros$ ก่อนที่จะพักระยะยาว",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "กระดิ่งพนักงานต้อนรับ"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "Release Notes"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "รายงานปัญหา"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "เริ่มต้นรอบใหม่ Pomodoro"
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "เริ่มจับเวลาใหม่"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "เริ่่มจับเวลาต่อ"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "หุ่นยนต์ 1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "หุ่นยนต์ 2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "วันเสาร์"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "ส."
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "กันยายน"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "ก.ย."
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "ตั้งค่า"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "กระดิ่งเรือ"
+   },
+   "short_break_title": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "พักระยะสั้น"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "แสดงการแจ้งเตือนบนเดสก์ทอป"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "แสดงการแจ้งเตือนแท๊บใหม่"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "Source Code"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "เริ่มพัก"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "เริ่มการพัก"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "เริ่มโฟกัส"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "เริ่มต้นโฟกัสตอนนี้"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "เริ่มการพักระยะยาว"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "เริ่มการพักระยะยาว"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "เริ่มต้นรอบ Pomodoro"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "เริ่มการพักระยะสั้น"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "เริ่มการพักระยะสั้น"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "หยุดการจับเวลา"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "วันอาทิตย์"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "อา."
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "หยุดพัก"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "หยุดพักระยะยาว"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "พักระยะยาว:"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "หยุดพักระยะสั้น"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "เดือนนี้"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "อาทิตย์นี้"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": ","
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "วันพฤหัสบดี"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "พฤ."
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-I:%M:%S %p"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "a"
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "p"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "$time$ ที่เหลืออยู่",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "หยุดจับเวลาอยู่"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "เตาอบ"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "วันนี้"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "โทน"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "ทั้งหมด"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "แตรรถไฟ"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "วันอังคาร"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "อ."
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "เวอร์ชัน"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "View"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "ดูประวัติ"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "วันพุธ"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "พ."
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "รายสัปดาห์"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "เสร็จสิ้น Pomodoro เพื่อดูสถิติรายสัปดาห์ของคุณ"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ ใน $day$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "เมื่อเสร็จสิ้น:"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "แสดงความคิดเห็น"
+   }
+}

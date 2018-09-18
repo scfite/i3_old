@@ -1,0 +1,5 @@
+use urxvtconfig
+save as .Xresources
+run $ xrdb -load ~/.Xresources
+run $ xrdb -merge ~/.Xresources
+  

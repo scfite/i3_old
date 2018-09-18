@@ -1,0 +1,36 @@
+2018/09/16-15:19:31.959 20910 Reusing MANIFEST /home/sam/.config/google-chrome/Default/Local Extension Settings/fdjamakpfbbddfjaooikfcpapjohcfmg/MANIFEST-000001
+2018/09/16-15:19:31.959 20910 Recovering log #452
+2018/09/16-15:19:31.969 20910 Reusing old log /home/sam/.config/google-chrome/Default/Local Extension Settings/fdjamakpfbbddfjaooikfcpapjohcfmg/000452.log 
+2018/09/16-20:39:41.511 22031 Level-0 table #456: started
+2018/09/16-20:39:41.544 22031 Level-0 table #456: 4203107 bytes OK
+2018/09/16-20:39:41.546 22031 Delete type=0 #452
+2018/09/16-20:39:41.548 22031 Compacting 4@0 + 1@1 files
+2018/09/16-20:39:41.561 22031 Generated table #457@0: 19 keys, 371740 bytes
+2018/09/16-20:39:41.561 22031 Compacted 4@0 + 1@1 files => 371740 bytes
+2018/09/16-20:39:41.562 22031 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/16-20:39:41.563 22031 Delete type=2 #451
+2018/09/16-20:39:41.563 22031 Delete type=2 #446
+2018/09/16-20:39:41.564 22031 Delete type=2 #453
+2018/09/16-20:39:41.564 22031 Delete type=2 #456
+2018/09/16-20:39:41.565 22031 Delete type=2 #448
+2018/09/17-11:30:05.083 22031 Level-0 table #459: started
+2018/09/17-11:30:05.144 22031 Level-0 table #459: 4165013 bytes OK
+2018/09/17-11:30:05.147 22031 Delete type=0 #455
+2018/09/17-13:58:05.343 22031 Compacting 1@0 + 1@1 files
+2018/09/17-13:58:05.353 22031 Generated table #460@0: 19 keys, 371742 bytes
+2018/09/17-13:58:05.353 22031 Compacted 1@0 + 1@1 files => 371742 bytes
+2018/09/17-13:58:05.355 22031 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/17-13:58:05.355 22031 Delete type=2 #457
+2018/09/17-13:58:05.356 22031 Delete type=2 #459
+2018/09/17-15:20:05.097 22031 Level-0 table #462: started
+2018/09/17-15:20:05.130 22031 Level-0 table #462: 4160517 bytes OK
+2018/09/17-15:20:05.132 22031 Delete type=0 #458
+2018/09/17-18:42:20.818 22031 Compacting 1@0 + 1@1 files
+2018/09/17-18:42:20.826 22031 Generated table #463@0: 19 keys, 371566 bytes
+2018/09/17-18:42:20.826 22031 Compacted 1@0 + 1@1 files => 371566 bytes
+2018/09/17-18:42:20.828 22031 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/17-18:42:20.828 22031 Delete type=2 #462
+2018/09/17-18:42:20.829 22031 Delete type=2 #460
+2018/09/17-19:37:26.499 22031 Level-0 table #465: started
+2018/09/17-19:37:26.533 22031 Level-0 table #465: 4161953 bytes OK
+2018/09/17-19:37:26.535 22031 Delete type=0 #461

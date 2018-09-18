@@ -1,0 +1,29 @@
+{
+	"added_words":
+	[
+		"Eukaryotic",
+		"Prokaryotic",
+		"prokaryotic",
+		"Protista",
+		"eukaryotic",
+		"Euglena",
+		"Plantae",
+		"autotrophic",
+		"Animalia",
+		"Heterotrophic",
+		"Archaea",
+		"evironments",
+		"archaeobacteria",
+		"Eukarya",
+		"Eukaryotes",
+		"Fite"
+	],
+	"color_scheme": "Packages/Materialize/schemes/Material Spaceblack Oceanic.tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Material Spaceblack.sublime-theme"
+}

@@ -1,0 +1,124 @@
+{
+  "library_usage_stats": {
+    "/home/sam/Calibre Library": 1
+  }, 
+  "book_details_splitter_horizontal_state": [
+    true, 
+    200
+  ], 
+  "quickview visible": false, 
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+  }, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "quick_start_guide_added": true, 
+  "grid view visible": false, 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    200
+  ], 
+  "search bar visible": true, 
+  "tag browser search box visible": false, 
+  "cover_browser_splitter_vertical_state": [
+    false, 
+    300
+  ]
+}

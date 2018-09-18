@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Dashlane Extension - Pairing Verification</title>
+    <link rel="stylesheet" type="text/css" href="styles/reset.css">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400|Roboto+Mono:400' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+        font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+      }
+
+      #splash {
+        height: 500px;
+        background: radial-gradient(at bottom left, #66b0c1, #007C97);
+        color: white;
+      }
+
+      #splash h1 {
+        background-image: url('images/dashlane-logo.svg');
+        background-repeat: no-repeat;
+        background-position: 0 40px;
+        height: 73px;
+        width: 142px;
+        margin-left: 52px;
+        text-indent: -999px;
+      }
+
+      .text {
+        text-align: center;
+        margin: 85px auto 0;
+        width: 500px;
+        font-size: 1.3em;
+      }
+
+      #wait_text {
+        display: none;
+      }
+
+      #code {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 5em;
+      }
+
+      #code > span {
+        border-bottom: solid 1px white;
+        margin: 0.2em;
+      }
+
+      #code_2 {
+        margin-right: 0.4em !important;
+      }
+
+      #confirmation_form {
+        text-align: center;
+      }
+
+      #confirmation_form button {
+        text-align: center;
+      }
+
+      #confirmation_form button {
+        font-size: 16px;
+        font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+        font-weight: 600;
+        text-transform: uppercase;
+
+        min-width: 200px;
+        min-height: 48px;
+        border-width: 2px;
+        border-radius: 0; /* To reset default styles from Browsers */
+        outline: none;
+
+        margin-top: 50px;
+        padding: 0 12px;
+
+        border-style: solid;
+        border-color: transparent;
+        background-color: #ff5412;
+        color: #fff;
+
+        transition: all 150ms ease-out;
+
+        cursor: pointer;
+      }
+
+      #confirmation_form button:hover,
+      #confirmation_form button:focus {
+        border-color: #b34015;
+      }
+
+      #confirmation_form button:active {
+        background-color: #b34015;
+      }
+
+      #confirmation_form_cancel {
+        display: block;
+        margin-top: 20px;
+        cursor: pointer;
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      #help {
+        font-size: 1.5em;
+        text-align: center;
+        color: #474747;
+        margin-top: 80px;
+      }
+
+      .error, .done {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <section id="splash">
+      <h1>Dashlane</h1>
+
+
+        <div class="text" id="click_authorize_text"></div>
+        <div class="text" id="wait_text"></div>
+        <div class="text done" id="done_completed"></div>
+        <div class="text done" id="done_cancelled"></div>
+        <div class="text error" id="error_NEED_PLUGIN_UPDATE"></div>
+        
+        <div id="code">
+          <span id="code_0"></span>
+          <span id="code_1"></span>
+          <span id="code_2"></span>
+          <span id="code_3"></span>
+          <span id="code_4"></span>
+          <span id="code_5"></span>
+        </div>
+  
+        <form id="confirmation_form">
+          <button type="submit" id="confirmation_form_authorize"></button>
+          <a id="confirmation_form_cancel"></a>
+        </form>
+    </section>
+
+    <div id="help"></div>
+
+    <script src="pairingVerification.js"></script>
+  </body>
+</html>
